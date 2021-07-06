@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Aliexpress bad seller shower
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Показывает плохих продавцов на Aliexpress
 // @author       Andronio
 // @homepage     https://github.com/Andronio2/Aliexpress-bad-seller-shower
@@ -10,6 +10,8 @@
 // @downloadURL  https://github.com/Andronio2/Aliexpress-bad-seller-shower/blob/main/Aliexpress%20bad%20seller%20shower.user.js
 // @match        *aliexpress.com/item/*
 // @match        *aliexpress.ru/item/*
+// @match        *.aliexpress.com/item/*
+// @match        *.aliexpress.ru/item/*
 // @exclude      *m.aliexpress.com/*
 // @exclude      *m.aliexpress.ru/*
 // @icon         https://www.google.com/s2/favicons?domain=aliexpress.com
